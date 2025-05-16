@@ -39,7 +39,7 @@ This repo is a real-world showcase of automation solutions for enterprise-grade 
 
 I'm an Endpoint Engineer working with Jamf Pro, Microsoft Intune, and Azure — designing secure, automated, and scalable environments. This repo is my way of showing what I build instead of just talking about it.
 
-🔗 [LinkedIn](https://www.linkedin.com/in/dariustatu)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tatu-petru-darius/)  
 🛠️ [GitHub](https://github.com/DariusTatu)
 
 ---
